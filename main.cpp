@@ -164,8 +164,3 @@ bool CheckLColision(Vector2& lineStart, Vector2& lineEnd, Vector2& bullet, int b
 	}
 	return false;
 }
-
-
-
-
-
